@@ -100,7 +100,7 @@ def sendMail(mailList, title, text):
         html_content=text)     
 
     try:
-        sg = SendGridAPIClient('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')
+        sg = SendGridAPIClient('your_key')
         response = sg.send(message)
         print(response.status_code)
         print(response.body)
@@ -132,7 +132,7 @@ def sendMailAttachment(mailList, title, text, attachment_paths=[]):
     message.attachment = attachments
     
     try:
-        sg = SendGridAPIClient('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')
+        sg = SendGridAPIClient('your_key')
         response = sg.send(message)
         print("Email sent. Response:")
         print("Status code:", response.status_code)
