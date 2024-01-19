@@ -13,14 +13,14 @@ def statistics_page():
     return stats_json
 
 def getStatistics(start_date, end_date):
-    sg = SendGridAPIClient('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')
+    sg = SendGridAPIClient('your_key')
     params = {'start_date': start_date, 'end_date': end_date}
 
     response = sg.client.stats.get(query_params=params)
 
     return response.body
 
-# sg = SendGridAPIClient('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')
+
 
 # params = {'start_date': '2023-07-19', 'end_date' : '2023-07-19'}
 
