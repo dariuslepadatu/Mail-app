@@ -15,6 +15,7 @@ Backend
 - Framework: Flask: The backend runs a Flask server handling all the data processing and operations.
 - Database: PostgreSQL: The application uses PostgreSQL for storing and querying email data.
 - Email Service: SendGrid API: Integration with SendGrid API for sending emails and retrieving statistics.
+  
 Frontend
 - Language: TypeScript
 - Framework: React
