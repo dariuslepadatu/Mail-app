@@ -21,3 +21,26 @@ Frontend
 - Framework: React
 - UI Toolkit: Chakra UI  The frontend is built using React with TypeScript, offering a responsive and user-friendly interface.
 
+# Home page
+
+![Home](https://github.com/dariuslepadatu/Mail-app/assets/94700118/df9a268f-f911-416b-9d3f-a1515a11f6e8)
+
+# Register
+
+![Register](https://github.com/dariuslepadatu/Mail-app/assets/94700118/22c7e8ce-135b-432c-a6cf-a438369a92f8)
+
+# Send mail
+
+![Send mail](https://github.com/dariuslepadatu/Mail-app/assets/94700118/e89ea7e3-37be-4f8c-8d04-ae83a2e828f1)
+
+# History
+
+![History](https://github.com/dariuslepadatu/Mail-app/assets/94700118/59ef8731-6fc9-4b1d-b015-bea98bb0ba9d)
+
+# Statistics graph
+
+![Statistics graph](https://github.com/dariuslepadatu/Mail-app/assets/94700118/3215b06b-cc7b-4d99-b4a1-6b1a72caa6ac)
+
+# Statistics bar chart 
+
+![Statistics bar chart](https://github.com/dariuslepadatu/Mail-app/assets/94700118/654dfeb6-e6b9-46d0-bfc8-d2f51354da8d)
